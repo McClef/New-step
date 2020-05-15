@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/images.jfif) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    margin: 50px;
+    padding: 30px;
+    font-family: cursive;
+    font-size: 20px;
+}
+input[type=text]{
+    width: 70%;
+    padding: 12px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  input[type=button] {
+    background-color: rgb(44, 70, 65);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 16px;
+  }
+legend{
+    text-align: center;
+  }
